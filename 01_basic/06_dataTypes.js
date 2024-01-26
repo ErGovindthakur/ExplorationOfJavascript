@@ -26,7 +26,7 @@ const Arrays = ['Govind', 'Thakur', 'is', 'Millionaire', '99'];
 let object = {
     name : 'Govind',
     profession : 'Engineer and Bussinesman',
-    value : 'Millionnaire',
+    value : 'Millionaire',
 }
 
 const myFunction = function() {
