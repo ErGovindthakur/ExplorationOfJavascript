@@ -42,4 +42,4 @@ console.log(url.includes('%20'));
 console.log(url.split('_',3));
 
 /* Always use (``) backtique in string templates 
-bcz it is a modern day pratices  And */
+bcz it is a modern day pratices  And TRY TO MASTER String chapter*/
