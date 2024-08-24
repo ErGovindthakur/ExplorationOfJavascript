@@ -11,10 +11,19 @@ const tempOutside = null;
 let userEmail ;
 
 let id = Symbol('123');
+console.log(typeof id);
+console.log(id);
+
+
 let anotherId = Symbol('123');
 console.log(id == anotherId);
+console.log(anotherId);
+
 
 let bigInt = 1234456789n;
+let newBigInt = BigInt(12131213)
+console.log(newBigInt);
+
 console.log(bigInt);
 console.log(typeof bigInt);
 
@@ -28,7 +37,7 @@ let object = {
     profession : 'Engineer and Bussinesman',
     value : 'Millionaire',
 }
-
+console.table(object)
 const myFunction = function() {
     console.log("This is a function");
 }

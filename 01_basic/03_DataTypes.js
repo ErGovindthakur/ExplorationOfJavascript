@@ -16,8 +16,8 @@ console.table([myName, myAge, isLoggedIn ]);
 /* Premitive Data Types
 bigint is a data type to store large amount of data
 null => is a datatype and also a standAlone value 
- undefined => 
- symbol => This show uniqueness of any data Type
+undefined => 
+symbol => This show uniqueness of any data Type
  */
 console.log(typeof null); //output = object
 console.log(typeof undefined); //output = undefined

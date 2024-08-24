@@ -99,7 +99,7 @@ console.log(1 + 2 + "2"); //output = 32
 */
 
 // Don't write code like that 
-console.log(3+4*2-1);
+console.log(3+4*2-1); // Not recommended
 console.log((3+4)*2-1);
 
 //Do fun with 
